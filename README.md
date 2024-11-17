@@ -1,5 +1,2 @@
 - 👋 Hi, I’m @Tim-Pirotte
-- 👀 I’m interested in programming (surprise) 
-- 🌱 I’m currently learning Rust
 - 📫 How to reach me: Timpirotte@outlook.com
-- 🏠 Currently working at a real estate agency doing a multitude of things like working on a flask app, coding software, making architectural renders and a lot of other tasks. 
